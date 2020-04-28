@@ -1,9 +1,9 @@
-title: Stackbit Azimuth Theme
+title: Lemon Productions
 baseURL: /
 params:
   palette: blue
   header:
-    title: Azimuth
+    title: Lemon Productions
     logo_img: images/logo.png
     has_nav: true
     nav_links:
@@ -15,8 +15,8 @@ params:
         url: /pricing
       - label: Style Guide
         url: /style-guide
-      - label: Sign Up
-        url: /signup
+      - label: Newsletter
+        url: /newsletter
         primary: true
   footer:
     logo_img: images/logo_alt.png
@@ -33,21 +33,21 @@ params:
       - label: Contact
         url: /contact
     has_social: true
-    social_title: Community
+    social_title: Social
     social_links:
       - label: Twitter
-        url: 'https://twitter.com/'
+        url: 'https://twitter.com/lemonproduction'
         new_window: true
       - label: Instagram
-        url: 'https://www.instagram.com/'
+        url: 'https://www.instagram.com/lemonproductionsca'
         new_window: true
-      - label: LinkedIn
-        url: 'https://www.linkedin.com/'
+      - label: YouTube
+        url: 'https://www.youtube.com/c/lemonproductionsca'
         new_window: true
     has_subscribe: true
     subscribe_title: Subscribe
     subscribe_content: Stay up to date with our latest developments.
-    content: '&copy; Stackbit. All rights reserved.'
+    content: '&copy; Lemon Productions. All rights reserved.'
     links:
       - label: Made with Stackbit
         url: 'https://www.stackbit.com'
